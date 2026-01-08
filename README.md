@@ -21,19 +21,7 @@ name, type, abilities, and front sprite.
 - Fetch API
 - Custom Hooks
 - PokeAPI
-## 📁 Project Structure
-src/
-├─ hooks/
-│ └─ usePokemon.ts
-├─ components/
-│ └─Pokemon/
-│   └─ GetPokemon.tsx
-│ └─ index.ts
-├─ shared/
-│ └─ index.ts
-├─ URL/
-│ └─ URL.ts
-
+  
 ## 🧠 Key Learnings
 
 - Handling asynchronous requests in React
@@ -46,7 +34,7 @@ src/
 
 ```bash
 npm install
-  npm run dev
+npm run dev
 ````
 
 ## ⭐ Project Link
