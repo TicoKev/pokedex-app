@@ -1,0 +1,1 @@
+export { default as GetPokemon } from "./Pokemon/GetPokemon"
