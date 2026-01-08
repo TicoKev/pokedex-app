@@ -39,5 +39,5 @@ npm run dev
 
 ## ⭐ Project Link
 
-https://pokedex-api-consumption.netlify.app/
+https://pokedex-kmora.netlify.app/
 
